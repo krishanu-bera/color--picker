@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+#main{
+    height: 150px;
+    width:500px;
+    border: 2px solid black;
+    margin: auto;
+}
